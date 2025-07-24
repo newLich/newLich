@@ -3,7 +3,7 @@ My name is João Vitor, i live in Porto Alegre
 
 I started formally in IT about 2 years ago, one year after entering college.
 
-Actually i am formally an Network/Operation Analyst, focus on maintain the Operations servers, services and critical client cases.
+Actually i am formally an Network/Operation Analyst, focus on monitoring the Operations servers, services and critical client cases.
 
 - 🔭 I’m currently working on an gitlab server in my job, where i organized scripts, backups and padronized confs of the servers.
 
