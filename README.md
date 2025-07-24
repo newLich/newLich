@@ -1,16 +1,17 @@
 ## Hi there 👋
+My name is João Vitor, i live in Porto Alegre
 
-<!--
-**newLich/newLich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started formally in IT about 2 years ago, one year after entering college.
 
-Here are some ideas to get you started:
+Actually i am formally an Network/Operation Analyst, focus on maintain the Operations servers, services and critical client cases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an gitlab server in my job, where i organized scripts, backups and padronized confs of the servers.
+
+- 🌱 I’m currently learning Python/Ansible, after i would like to start in docker projects for a more deep theorical/pratical knowledegment.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newLich&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newLich&repo=github-readme-stats&layout=donut-vertical" />
+</a>
